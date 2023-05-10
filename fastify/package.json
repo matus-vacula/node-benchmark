@@ -1,0 +1,24 @@
+{
+    "name": "fastify-ts-app",
+    "version": "1.0.0",
+    "description": "A simple Fastify application written in TypeScript",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "build": "tsc app.ts"
+    },
+    "keywords": [
+      "fastify",
+      "typescript"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+      "fastify": "^3.22.1"
+    },
+    "devDependencies": {
+      "@types/node": "^16.11.6",
+      "typescript": "^4.4.4"
+    }
+  }
+  

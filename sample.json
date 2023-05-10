@@ -1,0 +1,13 @@
+{
+  "userId": "019mr8mf4r",
+  "event": "Item Purchased",
+  "type": "track",
+  "properties": {
+    "name": "Leap to Conclusions Mat",
+    "revenue": 14.99
+  },
+  "context": {
+    "ip": "24.5.68.47"
+  },
+  "timestamp": "2023-05-02T00:30:12.984Z"
+}

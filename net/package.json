@@ -1,0 +1,21 @@
+{
+    "name": "net-ts-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js TCP server written in TypeScript",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "build": "tsc app.ts"
+    },
+    "keywords": [
+      "net",
+      "typescript"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "devDependencies": {
+      "@types/node": "^16.11.6",
+      "typescript": "^4.4.4"
+    }
+  }
+  
